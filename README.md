@@ -1,4 +1,7 @@
 # styler
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/awryme/styler)](https://pkg.go.dev/github.com/awryme/styler)
+
 Create css styles / classes in go, serve them with http handler
 
 Use generated classnames in pages
